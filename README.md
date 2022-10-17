@@ -65,6 +65,9 @@ Build your own website with our one-day workshop on understanding HTML and CSS. 
 - You will learn how to use HTML Elements to structure the website.
 - You will learn how to use CSS and apply presentation layer to the website.
 
+## VMware setup
+https://docs.google.com/document/d/1xSM640ogNEkQULr2uK0BhCONd840DJIkF4QFeP7N-b8/edit?usp=sharing
+
 ## Schedule
 
 | Time          | Topics
